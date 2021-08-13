@@ -2,6 +2,7 @@ My Resolusi
 - Konsisten untuk terus belajar Nodejs dan Reactjs
 - Konsisten untuk belajar dasar-dasar pemrograman pada Javascript
   * Memperbaiki portfolio menjadi lebih baik
+ - Semangat belajar Git dan Github
 - Membangun lapangan pekerjaan untuk teman-teman saya yang kesusahan
 - Membuat perusahaan sendiri 
 - Manajemen sosial media menjadi education and more valuable
